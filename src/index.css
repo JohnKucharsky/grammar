@@ -7,7 +7,7 @@
 .app {
   background-color: #eef2ff;
   text-align: center;
-  padding: 0.5rem;
+  padding: 1rem;
 }
 .tags {
   display: flex;
@@ -36,6 +36,29 @@ p {
   color: #fff;
   padding: 0.15rem 0.5rem;
   border-radius: 0.1rem;
+}
+@media only screen and (max-width: 400px) {
+  .tag {
+    font-size: 0.85rem;
+    padding: 0.15rem 0.4rem;
+  }
+  .tags {
+    margin: 0.5rem 0;
+    gap: 0.5rem;
+  }
+  p {
+    font-size: 0.9rem;
+  }
+  h2 {
+    font-size: 1.1rem;
+  }
+  .content {
+    padding: 0.5rem;
+    margin: 0 auto 0.5rem auto;
+  }
+  .app {
+    padding: 0.5rem;
+  }
 }
 h2 {
   color: #18181b;
