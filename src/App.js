@@ -85,7 +85,7 @@ const data = [
     ],
     title: "Determiners-определители and Articles",
     content:
-      "It's a computer. The computer isn’t modern, it's old. This computer is big, but these days we prefer fast and smart gadgets. It's a computer. My mother is a doctor. Give me an apple, please. Open the door, please. — What is this? — This is a box of matches. You can take these apples. Can you give me that pen, please? Those houses are new. I work for Microsoft. I work for an American company. I work for the European Union. I work for a newspaper. I work with many people. I work with a computer. I work in a hospital.I work in a shop. I work in an office. I work at home. I study at university/shool/work. I earn a lof money",
+      "It's a computer. The computer isn’t modern, it's old. This computer is big, but these days we prefer fast and smart gadgets. My mother is a doctor. Give me an apple, please. Open the door, please. — What is this? — This is a box of matches. You can take these apples. Can you give me that pen, please? Those houses are new. I work for Microsoft. I work for an American company. I work for the European Union. I work for a newspaper. I work with many people. I work with a computer. I work in a hospital.I work in a shop. I work in an office. I work at home. I study at university/shool/work. I earn a lof money",
   },
   {
     tags: [
@@ -101,13 +101,7 @@ const data = [
     tags: ["Adverb-наречия"],
     title: "Adverbs-наречия",
     content:
-      "I walk quietly, talk politely and run fast. What about you? Listen carefully! I went to bed early yesterday and slept well. Our team played well last week. Use them to say how somebody does something or how something happens. Please, talk slowly. I can't understand you. I know the words of the song perfectly.",
-  },
-  {
-    tags: ["Adverb-наречия", "Comparative Degree-сравнительная степень"],
-    title:
-      "Comparative adjectives- сравнительные прилагательные and adverbs-наречия",
-    content: "",
+      "I walk quietly, talk politely and run fast. What about you? Listen carefully! I went to bed early yesterday and slept well. Our team played well last week. Please, talk slowly. I can't understand you. I know the words of the song perfectly.",
   },
   {
     tags: [
@@ -118,7 +112,7 @@ const data = [
     title:
       "Comparative adjectives- сравнительные прилагательные and adverbs-наречия",
     content:
-      "Canada is bigger than China, although the population of China is larger. The Canadians are happier than other cultures.China's economy is more powerful. The Chinese language is more difficult than English. Chinese people drive worse than Canadians. Canada is bigger than China. This story is more interesting than the previous one. I'm taller than you. I drive more safely than my wife. We travel more often than our grandparents. Kate learns as fast as Tom.These glasses are as good as my old ones. The more you study, the better results you get. The faster you drive, the closer you’re to the destination.",
+      "Canada is bigger than China, although the population of China is larger. The Canadians are happier than other cultures.China's economy is more powerful. The Chinese language is more difficult than English. Chinese people drive worse than Canadians. Canada is bigger than China. This story is more interesting than the previous one. I'm taller than you. I drive more safely than my wife. We travel more often than our grandparents. Kate learns as fast as Tom. These glasses are as good as my old ones. The more you study, the better results you get. The faster you drive, the closer you’re to the destination.",
   },
   {
     tags: [
@@ -127,13 +121,13 @@ const data = [
     ],
     title: "Superlative adjectives-прилагательное and adverbs-наречия",
     content:
-      "Let's play a quick question game! Who is the tallest person in your family? Let's play a quick question game! Who is the tallest person in your family? What is the most interesting film you've ever seen? The Green Mile. Where can I get the best coffee in your hometown? In the coffee house called 'Black'. What is the most beautiful place you've ever been to? The church in the mountains. My brother is the tallest person in the family. My phone is the most valuable thing in life. What is the most interesting film you've ever seen? It's the most beautiful picture I've ever seen. She is the kindest person I've ever known.",
+      "Who is the tallest person in your family? My brother is the tallest person in the family. What is the most interesting film you've ever seen? The Green Mile. Where can I get the best coffee in your hometown? In the coffee house called 'Black'. What is the most beautiful place you've ever been to? The church in the mountains. My phone is the most valuable thing in life. What is the most interesting film you've ever seen? It's the most beautiful picture I've ever seen. She is the kindest person I've ever known.",
   },
   {
     tags: ["Adjective-прилагательное"],
     title: "Common Adjectives-часто уп. прилагательные",
     content:
-      "The TV set is old. Can you see these little kittens? The TV set is old. He has an expensive watch. Can you see these little kittens? My son is so funny. Her daughter is so funny.",
+      "The TV set is old. Can you see these little kittens? He has an expensive watch. Her daughter is so funny.",
   },
   {
     tags: ["Pronoun-местоимение", "Relative"],
