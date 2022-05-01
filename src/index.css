@@ -40,3 +40,7 @@ p {
 h2 {
   color: #18181b;
 }
+.sec > p {
+  margin-top: 1rem;
+  line-height: 1.6;
+}

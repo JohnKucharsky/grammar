@@ -148,7 +148,224 @@ const data = [
       "When does school begin in the UK? How did Gulliver get to Lilliput? Where is Fire Island? Do animals feel upset? Why are American colleges so expensive? When was the Great Fire of London? Where are the 2024 Summer Olympics going to take place? Where were you at 5 o'clock? Who was your best friend at school? How did you get home yesterday? Did she copy the test answers? Why are you often late? When is Thanksgiving day? How often does it rain there? Why do they think that it's a bad idea? Hey, where are you going? What is Rita wearing today? When are you going to buy a new fridge? Is he going to give away his clothes? Can you swim? What computer games can you play?",
   },
 ];
-
+const data2 = [
+  {
+    category: "Tenses-времена",
+    title: "Be Going to (Plans)",
+    content:
+      "Mike is going to visit the supermarket today. He's not going to buy a lot, just some milk and some bread. After that, he's going to go to the bank.",
+  },
+  {
+    category: "Tenses-времена",
+    title: "Be going to (Predictions)",
+    content:
+      "The bookshelf is shaking, it's going to fall. Mary and John are perfect for each other, they're going to get married someday.",
+  },
+  {
+    category: "Tenses-времена",
+    title: "Going to and Present Continuous",
+    content:
+      "Hi, Rose! I'm in town. What are you doing on Friday evening? Can we meet up? Hey! I am having dinner with my parents at 7. How about 9 p.m.? 9 o'clock is fine. Deal! When are you leaving?I'm going to leave next week.",
+  },
+  {
+    category: "Tenses-времена",
+    title: "Past Continuous-прошлое продолжительное",
+    content:
+      "It was 1 p.m. A fisherman was sitting at the lake. A boy was playing next to him and suddenly he asked 'Why are you doing nothing?' The fisherman answered 'I was reading when you came'. The child said 'But you can catch more fish'. 'Why would I catch more than I need?' asked the fisherman.",
+  },
+  {
+    category: "Tenses-времена",
+    title: "Past Perfect-прошедшее совершенное",
+    content:
+      "I washed the floor when the painter had left. Jane went to lunch after she had finished her work. Irene had never tasted sushi before her trip to Japan.",
+  },
+  {
+    category: "Tenses-времена",
+    title: "Past Simple",
+    content:
+      "One man wanted to climb Mont Blanc, the mountain in the Alps, but he didn't get to the top. He decided to give money to anyone who could do it. In 1786 two men, Balmat and Paccard, reached the top and won the money.",
+  },
+  {
+    category: "Tenses-времена",
+    title: "Past Simple of «to be»",
+    content:
+      "She was a fashion designer. Coco was born in 1883 in France. Her early years were not glamorous — Coco's mother was not with her, and her father left her. But she made a revolution in the fashion industry.",
+  },
+  {
+    category: "Tenses-времена",
+    title: "Present Continuous-настоящее длительное",
+    content:
+      "I want to buy a new motorcycle. Now I am saving up for it. This week I am working overtime. I am writing a report at the moment. I am not eating out these days, I am trying to spend less.",
+  },
+  {
+    category: "Tenses-времена",
+    title: "Present Perfect-настоящее совершенное (ever/never)",
+    content:
+      "Have you ever been to Tibet? No, I haven't. Have you? No, but my son travelled to Tibet 3 years ago. Wow, did he enjoy the trip? Yes, a lot.",
+  },
+  {
+    category: "Tenses-времена",
+    title: "Present Perfect-настоящее совершенное (regular irregular verbs)",
+    content:
+      "It's my father's birthday and I haven't bought him a present. — Where's Amy? — She's gone to the bank. We've never played tennis before.",
+  },
+  {
+    category: "Tenses-времена",
+    title: "Present Perfect-настоящее совершенное (verb “to be”)",
+    content:
+      "I have never been to Spain but my sister has been there three times. — Have you been to Moscow? — No, I haven't. Mike has been late to work four times this week!",
+  },
+  {
+    category: "Tenses-времена",
+    title: "Present Perfect-настоящее совершенное (yet, just, already)",
+    content:
+      "Mum, I haven't done my homework yet. Why not? I've just come home from school. When are you going to do it? After dinner. We've already done 2 exercises at school. So there's not much left.",
+  },
+  {
+    category: "Tenses-времена",
+    title: "Present Perfect-настоящее совершенное and 'for' or 'since')",
+    content:
+      "Mary is a doctor. She started working as a doctor in 2017. She has been a doctor since 2017. She has been a doctor for three years. Ethan and Jess have been married for 20 years. They have known each other since they were children.",
+  },
+  {
+    category: "Tenses-времена",
+    title: "Present Tense. To be. Negatives & Questions",
+    content:
+      "— Hi! Are you Mia, our new manager? I am Emma. — Nice to meet you, Emma! Is this my office? — Yes, it is. This is your table and computer. But that shelf is not yours. — OK. Are my colleagues here? — Yes, they are. Let's go and meet them.",
+  },
+  {
+    category: "Tenses-времена",
+    title: "Will (for predictions)",
+    content:
+      "Do you ever think about the future? I think solar panels will be cheaper. People will land on Mars. I don't think there will be flying cars. We will eat less meat.",
+  },
+  {
+    category: "Tenses-времена",
+    title: "Will (for promises, offers and decisions)",
+    content:
+      "Waiter! The spoon isn't clean. Sorry, I'll bring you another one. I don't feel good. Shall I get you some water? Please, don't tell my relatives about what happened. All right, I won't tell anyone.",
+  },
+  {
+    category: "Tenses-времена",
+    title: "Would like to",
+    content:
+      "Would you like to dance with me? Annie would like to apologise for her behaviour. I would like to say something.",
+  },
+  {
+    category: "Tenses-времена",
+    title: "Tense review (present, past and future)",
+    content:
+      "J.K. Rowling started writing the Harry Potter series in 1997. She was travelling on the train when the idea for Harry Potter came to her. Rowling lives in Scotland and has 2 children. Now she is writing detective stories. She will always have lots of fans and followers.",
+  },
+  {
+    category: "Verbs-глаголы",
+    title: "Expressing Movement",
+    content:
+      "We went into the supermarket and walked along the shelves. We took some products off the shelves and put them in our basket.",
+  },
+  {
+    category: "Verbs-глаголы",
+    title: "'So', 'Neither' and Auxiliaries-вспомагательные",
+    content:
+      "My sister has been to Ireland three times, and so have I. I have never been to Sweden, and neither has my sister. Sam never works on Fridays, and neither does Sally. Ally will take a day off on Monday, and so will Jenny.",
+  },
+  {
+    category: "Verbs-глаголы",
+    title: "Uses of the infinitive-инфинитив",
+    content:
+      "Do you want to learn how to make soap at home? It's really easy to make it if you have the right ingredients. You need to find olive oil, palm oil, shea butter, some water and sodium hydroxide. Add lemon oil to make the soap scented. Use safety equipment and try not to touch anything without gloves.",
+  },
+  {
+    category: "Sentences",
+    title: "Conjunctions-союзы",
+    content:
+      "Why aren't there any dinosaurs now? Because an asteroid fell on Earth. So they all died out! Yes, they couldn't survive, although other animals could.",
+  },
+  {
+    category: "Sentences",
+    title: "Telling the Time",
+    content:
+      "Why does the time go so fast? It's eleven fifteen. Then it’ll be 12 o'clock, 3 p.m. and 20:50. I come home at 4 p.m., but I never have enough time.",
+  },
+  {
+    category: "Sentences",
+    title: "There is/There are",
+    content:
+      "There is a table in the office. There are four black chairs around the table. There is a whiteboard on the wall. There isn't a book on the table. There aren't any people.",
+  },
+  {
+    category: "Sentences",
+    title: "There was/There were",
+    content:
+      "There was a big oven. There were a lot of iron dishes.There wasn't a microwave, a fridge or a blender. There weren't any plastic items.",
+  },
+  {
+    category: "Nouns-существительные and Articles",
+    title: "Countable or Uncountable Nouns-исчисляемые и неисчисляемые",
+    content:
+      "Mike has a candy, some coins and some chewing gum in his pocket . I haven't got any time to play tennis today. I have an idea but I still need some advice from you.",
+  },
+  {
+    category: "Nouns-существительные and Articles",
+    title: "Singular-единственное ч. and Plural-множественное ч. Nouns",
+    content:
+      "— What is it? — It is a dictionary. — What are they? — They are watches.",
+  },
+  {
+    category: "Modals",
+    title: "Can / Can't",
+    content:
+      "— Can you play any instruments? — No, I can't, but I can paint well. — OK, can you show me your pictures? — Here they are.",
+  },
+  {
+    category: "Modals",
+    title: "May or Might and Infinitive (Possibility)",
+    content:
+      "What are you going to do tomorrow, Tom? — I don’t know. I might watch a film. I might play tennis. I’ll decide tomorrow.Rebecca feels very sick this morning. She might not go to work today because she may be ill.",
+  },
+  {
+    category: "Modals",
+    title: "Should or Shouldn't (Advice)",
+    content:
+      "You should study hard for this exam. It is very important. You shouldn’t stay up so late. You’ll be tired tomorrow. It’s a great band. You should listen to their music.",
+  },
+  {
+    category: "Pronouns-местоимения",
+    title: "Object Pronouns-объектные местоимения",
+    content:
+      "Love of my life, I love you. I love us. We are the cutest. You understand me so well. I want to scream «I love him!».I can’t wait to spend another year with you",
+  },
+  {
+    category: "Pronouns-местоимения",
+    title: "Possessive's-притяжательные местоимения",
+    content:
+      "Can you solve this riddle: I am a part of a laptop. I am also a human's T-shirt. I am above. What am I?",
+  },
+  {
+    category: "Pronouns-местоимения",
+    title: "Possessive Determiners-притяжательные местоимения",
+    content:
+      "— Is your brother at school? — No, he is in his room. Why? — He took my phone. — No, Dad gave him his phone. — Really? Where is my phone then?",
+  },
+  {
+    category: "Pronouns-местоимения",
+    title: "Possessive Pronouns-притяжательные местоимения",
+    content:
+      "— Whose charger is it? Is it yours? — No, mine is black. It may be Mike’s. — Is the book hers? — Yes, it’s Bella’s. — I thought it’s William’s. — No, his is really old.",
+  },
+  {
+    category: "Pronouns-местоимения",
+    title: "Something, Anything, Nothing, etc.",
+    content:
+      "Ann needed to find something to wear to her date with Paul. But she couldn’t find anything suitable in her closet. There was nothing that could fit her. She had to buy something new. Nobody came to Jeff’s party because he didn’t tell anyone the date of the party.",
+  },
+  {
+    category: "Prepositions-предлоги",
+    title: "Prepositions of Time",
+    content:
+      "This year, my birthday is on Sunday. We’re having a party at 7 in the evening. at 3.45. at Christmas. at the weekend. at lunchtime. at night. at midnight. on Tuesday. on May 23rd. on the 11th",
+  },
+];
 const App = () => {
   return (
     <div className="app">
@@ -162,6 +379,14 @@ const App = () => {
               </p>
             ))}
           </div>
+          <p>{i.content}</p>
+        </div>
+      ))}
+      {data2.map((i) => (
+        <div className="content sec" key={i.title}>
+          <h2>
+            {i.category} - {i.title}
+          </h2>
           <p>{i.content}</p>
         </div>
       ))}
