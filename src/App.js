@@ -38,7 +38,7 @@ const data = [
     tags: [
       "Verb-глагол",
       "Indicative Mood-изъявительное наклонение",
-      "Imperative Mood-совелительное",
+      "Imperative Mood-повелительное",
       "Subjunctive Mood-сослагательное",
       "Reported Speech-косвенная речь",
     ],
