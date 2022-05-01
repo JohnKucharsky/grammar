@@ -72,7 +72,7 @@ const data = [
   },
   {
     tags: ["Verb-глагол", "Multiword Verbs-сложные глаголы"],
-    title: "Word order of Phrasal verbs",
+    title: "Word order of Phrasal verbs-фразовые глаголы",
     content:
       "I put my sweater on, turned on my favourite music and picked out the best tea. I’m ready for a nice evening. Could you turn down the TV? Actually, turn it off completely. I need some quiet. Your teddy bear is on the floor. Pick him up and put him down on your bed. Why do you never clean up your room? I need to give Rachel’s keys back to her. She lent them to me for the weekend. I always get up early. I need to put on my shoes. I need to put my shoes on. I take my shoes and put them on.",
   },
