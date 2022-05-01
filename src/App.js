@@ -44,13 +44,13 @@ const data = [
     ],
     title: "Reported speech. Reporting Questions",
     content:
-      "Kate said to Peter, 'My dog is sick. Do you know any good vets?' Peter said to Jane, 'Kate told me that her dog was sick. She asked me if I knew any good doctors.' Ally asks John, 'What will we study next week? I have missed some classes, so I don't know' John tells Sarah, 'Ally asked me what we would study the week after. She said that she had missed some classes, so she didn’t know'.I am married. She told me (that) she was married. Jake wants to swim. I said (that) Jake wanted to swim. We are walking in the park. They told me (that) they were walking in the park. We saw Sue yesterday. They said (that) they had seen Sue the day before. I have never been to France. I told him (that) I had never been to France. I will write to you tomorrow. Mike said (that) he would write to me the next day. Can you swim? She asked me if I could swim. Do you like milk? They asked her whether she liked milk. Where is Mary? Tom asked where Mary was. Where were you yesterday? Lea asked me where I had been the day before.",
+      "Kate said to Peter, 'My dog is sick. Do you know any good vets' Peter said to Jane, 'Kate told me that her dog was sick. She asked me if I knew any good doctors.' Ally asks John, 'What will we study next week? I have missed some classes, so I don't know' John tells Sarah, 'Ally asked me what we would study the week after. She said that she had missed some classes, so she didn’t know'. I am married. She told me (that) she was married. Jake wants to swim. I said (that) Jake wanted to swim. We are walking in the park. They told me (that) they were walking in the park. We saw Sue yesterday. They said (that) they had seen Sue the day before. I have never been to France. I told him (that) I had never been to France. I will write to you tomorrow. Mike said (that) he would write to me the next day. Can you swim? She asked me if I could swim. Do you like milk? They asked her whether she liked milk. Where is Mary? Tom asked where Mary was. Where were you yesterday? Lea asked me where I had been the day before.",
   },
   {
     tags: ["Verb-глагол", "Conditionals-Условные предложения"],
     title: "First Conditional",
     content:
-      "If I take the bus to the cinema, I will be late. If I’m late, Alice will get angry. And if Alice gets angry, the evening will be ruined! I’ll get a taxi. If I have time, I will help you. If Mark eats more healthy food, he will lose some weight.If you don’t hurry, we’re going to miss the plane. If you ask Jane, she can help you. If we call a taxi, we might get there sooner. If the weather is nice, we’ll go to the beach. = We’ll go to the beach if the weather is nice.",
+      "If I take the bus to the cinema, I will be late. If I’m late, Alice will get angry. And if Alice gets angry, the evening will be ruined! I’ll get a taxi. If I have time, I will help you. If Mark eats more healthy food, he will lose some weight. If you don’t hurry, we’re going to miss the plane. If you ask Jane, she can help you. If we call a taxi, we might get there sooner. If the weather is nice, we’ll go to the beach. = We’ll go to the beach if the weather is nice.",
   },
   {
     tags: ["Verb-глагол", "Conditionals-Условные предложения"],
@@ -85,7 +85,7 @@ const data = [
     ],
     title: "Determiners-определители and Articles",
     content:
-      "It's a computer. The computer isn’t modern, it's old. This computer is big, but these days we prefer fast and smart gadgets. It's a computer. My mother is a doctor. Give me an apple, please. Open the door, please. — What is this? — This is a box of matches.You can take these apples. Can you give me that pen, please? Those houses are new. I work for Microsoft. I work for an American company. I work for the European Union. I work for a newspaper. I work with many people. I work with a computer. I work in a hospital.I work in a shop. I work in an office. I work at home. I study at university/shool/work. I earn a lof money",
+      "It's a computer. The computer isn’t modern, it's old. This computer is big, but these days we prefer fast and smart gadgets. It's a computer. My mother is a doctor. Give me an apple, please. Open the door, please. — What is this? — This is a box of matches. You can take these apples. Can you give me that pen, please? Those houses are new. I work for Microsoft. I work for an American company. I work for the European Union. I work for a newspaper. I work with many people. I work with a computer. I work in a hospital.I work in a shop. I work in an office. I work at home. I study at university/shool/work. I earn a lof money",
   },
   {
     tags: [
@@ -127,7 +127,7 @@ const data = [
     ],
     title: "Superlative adjectives-прилагательное and adverbs-наречия",
     content:
-      "Let's play a quick question game! Who is the tallest person in your family? Let's play a quick question game! Who is the tallest person in your family? What is the most interesting film you've ever seen? The Green Mile. Where can I get the best coffee in your hometown? In the coffee house called 'Black'. What is the most beautiful place you've ever been to? The church in the mountains. My brother is the tallest person in the family. My phone is the most valuable thing in life. What is the most interesting film you've ever seen? It's the most beautiful picture I've ever seen.She is the kindest person I've ever known.",
+      "Let's play a quick question game! Who is the tallest person in your family? Let's play a quick question game! Who is the tallest person in your family? What is the most interesting film you've ever seen? The Green Mile. Where can I get the best coffee in your hometown? In the coffee house called 'Black'. What is the most beautiful place you've ever been to? The church in the mountains. My brother is the tallest person in the family. My phone is the most valuable thing in life. What is the most interesting film you've ever seen? It's the most beautiful picture I've ever seen. She is the kindest person I've ever known.",
   },
   {
     tags: ["Adjective-прилагательное"],
@@ -151,7 +151,7 @@ const data = [
     tags: ["Sentence Structure", "Word Order"],
     title: "Word Order in Questions",
     content:
-      "When does school begin in the UK? How did Gulliver get to Lilliput? Where is Fire Island? Do animals feel upset? Why are American colleges so expensive? When was the Great Fire of London?Where are the 2024 Summer Olympics going to take place? Where were you at 5 o'clock? Who was your best friend at school? How did you get home yesterday? Did she copy the test answers? Why are you often late? When is Thanksgiving day? How often does it rain there?Why do they think that it's a bad idea? Hey, where are you going?What is Rita wearing today? When are you going to buy a new fridge?Is he going to give away his clothes? Can you swim? What computer games can you play?",
+      "When does school begin in the UK? How did Gulliver get to Lilliput? Where is Fire Island? Do animals feel upset? Why are American colleges so expensive? When was the Great Fire of London? Where are the 2024 Summer Olympics going to take place? Where were you at 5 o'clock? Who was your best friend at school? How did you get home yesterday? Did she copy the test answers? Why are you often late? When is Thanksgiving day? How often does it rain there? Why do they think that it's a bad idea? Hey, where are you going? What is Rita wearing today? When are you going to buy a new fridge? Is he going to give away his clothes? Can you swim? What computer games can you play?",
   },
 ];
 
