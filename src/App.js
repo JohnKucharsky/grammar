@@ -121,7 +121,7 @@ const data = [
     ],
     title: "Superlative adjectives-прилагательное and adverbs-наречия",
     content:
-      "Who is the tallest person in your family? My brother is the tallest person in the family. What is the most interesting film you've ever seen? The Green Mile. Where can I get the best coffee in your hometown? In the coffee house called 'Black'. What is the most beautiful place you've ever been to? The church in the mountains. My phone is the most valuable thing in life. What is the most interesting film you've ever seen? It's the most beautiful picture I've ever seen. She is the kindest person I've ever known.",
+      "Who is the tallest person in your family? My brother is the tallest person in the family. What is the most interesting film you've ever seen? The Green Mile. Where can I get the best coffee in your hometown? In the coffee house called 'Black'. What is the most beautiful place you've ever been to? The church in the mountains. My phone is the most valuable thing in life. It's the most beautiful picture I've ever seen. She is the kindest person I've ever known.",
   },
   {
     tags: ["Adjective-прилагательное"],
